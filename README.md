@@ -5,8 +5,9 @@
 - 😄 Pronomes: ela/dela
 
 
-<div>
-  <a href="https://github.com/thaiskaroline"> </a>
-  <img height="180em"src="https://github-readme-stats.vercel.app/apithaiskaroline=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/apithaiskaroline=anuraghazra&show_icons=true&theme=default#gh-light-mode-only"/>    
-</div>
+<a href="https://github.com/thaiskaroline/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thaiskaroline" />
+</a>
+<a href="https://github.com/thaiskaroline/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiskaroline&layout=compact&langs_count=8&card_width=320" />
+</a>
