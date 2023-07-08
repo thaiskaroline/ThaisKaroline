@@ -17,5 +17,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thaiskaroline&show_icons=true" />
 </picture>
 <a href="https://github.com/thaiskaroline/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiskaroline&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiskaroline&layout=compact" />
 </a>
