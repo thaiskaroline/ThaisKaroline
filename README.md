@@ -17,6 +17,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaiskaroline&hide=contribs,prs" />
 </picture>
 <a href="https://github.com/thaiskaroline/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiskaroline&layout=compact&show_icons=true&theme=dark"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiskaroline&langs_count=8"
     media="(prefers-color-scheme: dark)" />
 </a>
