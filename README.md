@@ -6,14 +6,14 @@
 
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thaiskaroline&show_icons=true&theme=dark"
+    width="42%" srcset="https://github-readme-stats.vercel.app/api?username=thaiskaroline&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thaiskaroline&show_icons=true"
+    width="42%" srcset="https://github-readme-stats.vercel.app/api?username=thaiskaroline&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img img width="42%" src="https://github-readme-stats.vercel.app/api?username=thaiskaroline&show_icons=true" />
+  <img  width="42%" src="https://github-readme-stats.vercel.app/api?username=thaiskaroline&show_icons=true" />
 </picture>
 <a href="https://github.com/thaiskaroline/convoychat">
   <img width="42%"  height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiskaroline&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
