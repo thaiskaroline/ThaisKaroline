@@ -1,4 +1,4 @@
-## Olá! Eu sou a Thais Karoline - Desenvolvedora de Software Jr!!
+## Olá! Eu sou a Thais Karoline!!!
 
 - 🌱 Estudando Java 
 - 📫 Contate-me no email: thaiskarolinefernandes@hotmail.com
