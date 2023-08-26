@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Thais Karoline!!!
 
 - 🌱 Estudando Java;
-- 👩‍💻 Cursando ADS e Engenharia da Computação;
+- 👩‍💻 Cursando Engenharia da Computação - Univesp e ADS - Uninter;
 - 📫 Contate-me no email: thaiskarolinefernandes@hotmail.com;
 
 <div style="display: inline_block"><br>
@@ -16,6 +16,12 @@
 </div>
 
 ##
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thaiskaroline/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/dps8WaXE/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/thaiskarolinemonteiro/)
+[![Email](https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=email)](mailto:thaiskarolinefernandes@hotmail.com/)
+
 <div>
   <a href="https://instagram.com/thaiskarolinemonteiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/dps8WaXE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
