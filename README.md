@@ -21,7 +21,4 @@
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/dps8WaXE/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/thaiskarolinemonteiro/)
 
-<div>
-  <a href = "mailto:thaiskarolinefernandes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
