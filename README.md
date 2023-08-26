@@ -25,4 +25,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/thaiskarolinemonteiro/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:thaiskarolinefernandes@hotmail.com)
 
-
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaiskaroline&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thaiskaroline&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
