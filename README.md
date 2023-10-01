@@ -1,10 +1,10 @@
-## Olá! Eu sou a Thais Karoline!!!
+## Hi Guys! I'm Thais Karoline!!!
 
-- 🌱 Estudando Java;
-- 👩‍💻 Cursando Engenharia da Computação - Univesp e ADS - Uninter;
-- 📫 Contate-me no email: thaiskarolinefernandes@hotmail.com;
+- 🌱 Studying Java;
+- 👩‍💻 Studying Computer Engineering - Univesp and ADS - Uninter;
+- 📫 Contact me at email: thaiskarolinefernandes@hotmail.com;
 
-## Habilidades
+## Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Thais-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Thais-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -18,7 +18,7 @@
   <img align="center" alt="Thais-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-### Conecte-se comigo
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thaiskaroline/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/dps8WaXE/)
