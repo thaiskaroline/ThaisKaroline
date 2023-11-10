@@ -17,7 +17,6 @@
   <img align="center" alt="Thais-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Thais-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Thais-Banco-de-dados" height="30" width="40" src="https://img.icons8.com/fluency/48/database--v1.png">
-  <img align="center" alt="Thais-Power-BI" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3ANew_Power_BI_Logo.svg">
   <img align="center" alt="Thais-Power-Apps" height="30" width="40" src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg">
   
 </div>
