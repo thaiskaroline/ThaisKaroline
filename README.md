@@ -16,6 +16,8 @@
   <img align="center" alt="Thais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thais-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Thais-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Thais-Banco-de-dados" height="30" width="40" src="https://img.icons8.com/fluency/48/database--v1.png">
+  
 </div>
 
 ### Connect with me
