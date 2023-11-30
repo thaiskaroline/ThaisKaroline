@@ -18,8 +18,7 @@
   <img align="center" alt="Thais-GitHub" height="30" width="40" src="https://assets.dryicons.com/uploads/icon/svg/8309/a31c02cc-26c6-4f68-86aa-36555c95d6c4.svg">
   <img align="center" alt="Thais-Banco-de-dados" height="30" width="40" src="https://img.icons8.com/fluency/48/database--v1.png">
   <img align="center" alt="Thais-Power-Apps" height="30" width="40" src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg">
-  <img align="center" alt="Thais-Power-Apps" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg">
-  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+
 
   
 </div>
