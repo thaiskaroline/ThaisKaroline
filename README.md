@@ -1,6 +1,6 @@
 ## Hi Guys! I'm Thais Karoline!!!
 
-- 🌱 Studying Java + Angular;
+- 🌱 Studying Python with Jupyter Notebook for system analyst;
 - 👩‍💻 Studying Computer Engineering - Univesp and ADS - Uninter;
 - 📫 Contact me at email: thaiskarolinefernandes@hotmail.com;
 
