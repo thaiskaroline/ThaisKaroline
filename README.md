@@ -18,7 +18,8 @@
   <img align="center" alt="Thais-GitHub" height="30" width="40" src="https://assets.dryicons.com/uploads/icon/svg/8309/a31c02cc-26c6-4f68-86aa-36555c95d6c4.svg">
   <img align="center" alt="Thais-Banco-de-dados" height="30" width="40" src="https://img.icons8.com/fluency/48/database--v1.png">
   <img align="center" alt="Thais-Power-Apps" height="30" width="40" src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg">
-  <img align="center" alt="Thais-Jupyter-Notebook" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png">
+  <img align="center" alt="Thais-Jupyter-Notebook" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png">
+  
   
 
 
