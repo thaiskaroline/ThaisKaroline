@@ -2,7 +2,7 @@
 
 - 🌱 Studying Python with Jupyter Notebook for system analyst;
 - 👩‍💻 Studying Computer Engineering - Univesp and ADS - Uninter;
-- 📫 Contact me at email: thaiskarolinefernandes@hotmail.com;
+- 📫 Contact me at email: thaiskarolinebentosilva@hotmail.com;
 
 ## Skills
 <div style="display: inline_block"><br>
