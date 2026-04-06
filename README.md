@@ -1,10 +1,10 @@
 ## Hi Guys! I'm Thais Karoline!!!
 
-🌱 Studying Python with Jupyter Notebook for System Analyst
-🎓 Graduated in Analysis and Systems Development (ADS)
-👩‍💻 Studying Computer Engineering and Information Technology with emphasis on IoT; pursuing postgraduate studies
-🔧 Technologies: Python, Jupyter, SQL, Power BI, Git
-📫 Contact: thaiskarolinebentosilva@hotmail.com
+- 🌱 Studying Python with Jupyter Notebook for System Analyst
+- 🎓 Graduated in Analysis and Systems Development (ADS)
+- 👩‍💻 Studying Computer Engineering and Information Technology with emphasis on IoT; pursuing postgraduate studies
+- 🔧 Technologies: Python, Jupyter, SQL, Power BI, Git
+- 📫 Contact: thaiskarolinebentosilva@hotmail.com
 
 ## Skills
 <div style="display: inline_block"><br>
