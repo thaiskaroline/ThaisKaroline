@@ -9,9 +9,9 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thaiskmonteiro-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/thaiskmonteiro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thaiskaroline-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/thaiskmonteiro)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail)](mailto:thaiskarolinebentosilva@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-thaiskmonteiro.dev-00d4ff?style=flat-square&logo=vercel)](https://thaiskmonteiro.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thaiskaroline.dev-00d4ff?style=flat-square&logo=vercel)](https://thaiskmonteiro.dev)
 ![Remote](https://img.shields.io/badge/Remote-Available_globally-00ff9d?style=flat-square)
 ![EOR](https://img.shields.io/badge/EOR-Eligible-7b61ff?style=flat-square)
 
@@ -74,7 +74,7 @@ Enterprise-grade data pipeline migrating legacy SAP data to Azure Databricks. In
 
 ---
 
-### 🍕 [Pizza Price Prediction — ML Pipeline](https://github.com/thaiskmonteiro/pizza-price-prediction)
+### 🍕 [Pizza Price Prediction — ML Pipeline](https://github.com/thaiskaroline/pizza-price-prediction)
 
 End-to-end machine learning pipeline: data ingestion, EDA, feature engineering, and regression model training to predict product prices. Demonstrates full data science workflow from raw CSV to deployed model.
 
@@ -82,7 +82,7 @@ End-to-end machine learning pipeline: data ingestion, EDA, feature engineering, 
 
 ---
 
-### 🔐 [Vault System — Secure Data Management](https://github.com/thaiskmonteiro/vault-system)
+### 🔐 [Vault System — Secure Data Management](https://github.com/thaiskaroline/vault-system)
 
 Java desktop application for encrypted storage of sensitive records. Features SQL persistence, full CRUD, role-based access control (RBAC), and clean OOP architecture.
 
@@ -90,7 +90,7 @@ Java desktop application for encrypted storage of sensitive records. Features SQ
 
 ---
 
-### 🌐 [Coffee Shop — Responsive Web Interface](https://github.com/thaiskmonteiro/coffee-shop-website)
+### 🌐 [Coffee Shop — Responsive Web Interface](https://github.com/thaiskaroline/coffee-shop-website)
 
 Responsive institutional website built from scratch: HTML5 semantic markup, CSS3 with Flexbox/Grid, vanilla JavaScript. Optimized for accessibility and performance across all screen sizes.
 
@@ -102,9 +102,9 @@ Responsive institutional website built from scratch: HTML5 semantic markup, CSS3
 
 <div align="center">
 
-![Thais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaiskmonteiro&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=06070d&title_color=00d4ff&icon_color=7b61ff&text_color=e8eaf0)
+![Thais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaiskaroline&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=06070d&title_color=00d4ff&icon_color=7b61ff&text_color=e8eaf0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiskmonteiro&layout=compact&theme=midnight-purple&hide_border=true&bg_color=06070d&title_color=00d4ff&text_color=e8eaf0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiskaroline&layout=compact&theme=midnight-purple&hide_border=true&bg_color=06070d&title_color=00d4ff&text_color=e8eaf0)
 
 </div>
 
@@ -137,7 +137,7 @@ thais = {
 }
 ```
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/thaiskmonteiro) or [email](mailto:thaiskarolinebentosilva@hotmail.com).
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/thaiskaroline) or [email](mailto:thaiskarolinebentosilva@hotmail.com).
 
 ---
 
