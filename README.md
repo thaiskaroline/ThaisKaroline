@@ -1,72 +1,159 @@
-# Hi, I'm Thais Karoline 👋
+# 🔮 Thais Karoline — Portfolio
+
+> **Data Engineer · Full Stack · Azure · Databricks · Python · SQL**  
+> Live demo: [thaiskaroline.dev](https://thaiskaroline.dev) · [LinkedIn](https://linkedin.com/in/thaiskaroline) · [GitHub](https://github.com/thaiskaroline)
+
+---
 
 <div align="center">
 
-\`\`\`
-╔══════════════════════════════════════════════════════════════════════╗
-║   Data Engineer │ Azure · Databricks · Python · SQL · ETL/ELT       ║
-║   Building scalable pipelines that turn raw data into decisions      ║
-╚══════════════════════════════════════════════════════════════════════╝
-\`\`\`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thaiskaroline-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/thaiskaroline)
-[![Email](https://img.shields.io/badge/Email-contact-FF2D95?style=flat-square&logo=gmail)](mailto:thaiskarolinebentosilva@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-thaiskaroline.dev-7C3AED?style=flat-square)](https://thaiskaroline.dev)
-![Remote](https://img.shields.io/badge/Remote-Available_globally-34d399?style=flat-square)
+![Data Engineer](https://img.shields.io/badge/Data_Engineer-Azure_Databricks-FF2D95?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Expert-7C3AED?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-FF2D95?style=flat-square)
+![Remote](https://img.shields.io/badge/Remote-EOR_Eligible-34d399?style=flat-square)
+![Toyota](https://img.shields.io/badge/Toyota-2+_Years-FF2D95?style=flat-square)
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About This Portfolio
 
-Data Engineer with **2+ years** at Toyota do Brasil, building enterprise data pipelines
-for Latin America's largest automotive manufacturing environment.
+Cyberpunk-aesthetic portfolio showcasing **Data Engineering** and **Full Stack** work, with a live interactive **Holt-Winters demand forecasting** demo. Built to demonstrate enterprise-grade engineering to international recruiters.
 
-- 🚀 **-40%** pipeline processing time via Azure Databricks migration
-- ⚙️ **-70%** manual ops through Python automation
-- 📊 SAP → Power BI dashboards used daily by Toyota leadership
-- 🌍 Open to **remote international contracts** (EOR eligible, fluent English)
-
----
-
-## 🛠 Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Key highlights from the portfolio:**
+- 40% processing time reduction via Azure Databricks migration @ Toyota
+- 70% operational automation via Python pipelines
+- Live Holt-Winters + Ridge + GBM ensemble forecasting demo
+- Interactive SQL Server-integrated demand prediction system
 
 ---
 
-## 📌 Featured Projects
+## 📁 Project Structure
 
-### 🔮 [DemandIQ — Holt-Winters Demand Forecast](https://github.com/thaiskaroline/demandiq)
-End-to-end demand forecasting for automotive parts. Holt-Winters + Ridge + GBM ensemble,
-FastAPI backend, SQL Server integration, interactive dashboard.
-`Python` `Holt-Winters` `FastAPI` `SQL Server` `Chart.js`
+```
+thais-portfolio/
+├── index.html                    ← Single-file portfolio (open in browser)
+│
+├── demand-forecast-holt-winters/ ← DemandIQ full project
+│   ├── index.html                ← Standalone forecast dashboard
+│   ├── demand_forecast.py        ← Python engine (Holt-Winters + ML)
+│   └── api/
+│       ├── main.py               ← FastAPI backend (SQL Server)
+│       ├── schema.sql            ← DB schema + seed data
+│       ├── test_connection.py    ← Connection validator
+│       ├── requirements.txt
+│       ├── start.bat
+│       └── .env.example
+│
+└── README.md
+```
 
-### 🍕 [Pizza Price Prediction](https://github.com/thaiskaroline/pizza-price-prediction)
-Full ML pipeline: EDA, feature engineering, regression with Scikit-learn.
-`Python` `Scikit-learn` `Pandas` `Matplotlib`
+## 🛠 Tech Stack
 
-### 🔐 [Vault System](https://github.com/thaiskaroline/vault-system)
-Java desktop app for encrypted data storage. RBAC, CRUD, OOP.
-`Java` `SQL` `OOP` `RBAC`
+### Data Engineering (Primary)
+| Tool | Proficiency | Used at |
+|---|---|---|
+| Azure Databricks | ⭐⭐⭐⭐⭐ | Toyota |
+| PySpark | ⭐⭐⭐⭐ | Toyota |
+| SQL (T-SQL, PostgreSQL) | ⭐⭐⭐⭐⭐ | Toyota + Projects |
+| ETL/ELT Pipelines | ⭐⭐⭐⭐⭐ | Toyota |
+| SAP Integration | ⭐⭐⭐⭐ | Toyota |
+| Power BI + DAX | ⭐⭐⭐⭐⭐ | Toyota |
+| dbt | ⭐⭐⭐ | Projects |
+| Apache Airflow | ⭐⭐⭐ | Projects |
+
+### ML & Analytics
+| Tool | Proficiency |
+|---|---|
+| Python (pandas, numpy) | ⭐⭐⭐⭐⭐ |
+| Scikit-learn | ⭐⭐⭐⭐ |
+| Holt-Winters / ARIMA | ⭐⭐⭐⭐ |
+| Statistical Modeling | ⭐⭐⭐⭐ |
+
+### Full Stack
+| Tool | Proficiency |
+|---|---|
+| FastAPI | ⭐⭐⭐⭐ |
+| React / TypeScript | ⭐⭐⭐ |
+| Java / C# / .NET | ⭐⭐⭐ |
+| Docker | ⭐⭐⭐ |
 
 ---
 
-\`\`\`python
-thais = {
-    "role":      "Data Engineer",
-    "location":  "Brazil 🇧🇷 (Remote · EOR)",
-    "stack":     ["Python", "SQL", "Azure Databricks", "PySpark", "Power BI"],
-    "open_to":   ["Full-time Remote", "Contract", "EOR"],
-    "languages": ["Portuguese (native)", "English (fluent)"],
-    "timezone":  "UTC-3 (flexible for overlap)",
-}
+## 📊 Featured: DemandIQ — Holt-Winters Forecast
+
+### What it does
+End-to-end demand forecasting for automotive parts using:
+- **Holt-Winters Triple Exponential Smoothing** (multiplicative, auto-optimized α/β/γ via grid search)
+- **Ridge Regression** with engineered lag/seasonal features
+- **Gradient Boosting** ensemble
+- **SQL Server** integration via FastAPI
+- **Interactive dashboard** with real-time parameter controls
+
+### Model equations
+```
+Level:     L_t = α·(y_t/S_{t-m}) + (1-α)·(L_{t-1}+T_{t-1})
+Trend:     T_t = β·(L_t-L_{t-1}) + (1-β)·T_{t-1}
+Seasonal:  S_t = γ·(y_t/L_t) + (1-γ)·S_{t-m}
+Forecast:  ŷ_{t+h} = (L_t + h·T_t) · S_{t-m+h mod m}
+```
+
+### Results
+| Metric | Value |
+|---|---|
+| MAPE | ~7% |
+| Confidence Interval | 95% |
+| Forecast Horizon | Up to 24 months |
+| Models in Ensemble | 3 (HW + Ridge + GBM) |
+
+---
+
+## 🚀 Deploy to Vercel
+
+```bash
+# Install Vercel CLI
+npm i -g vercel
+
+# Deploy
+vercel --prod
+
+# Or connect GitHub repo at vercel.com for auto-deploy on push
+```
+
+---
+
+## 🔒 Environment Variables
+
+```bash
+# demand-forecast-holt-winters/api/.env
+DB_SERVER=localhost
+DB_PORT=1433
+DB_NAME=demandiq
+DB_USER=sa
+DB_PASSWORD=your_password
+DB_DRIVER=ODBC Driver 17 for SQL Server
+DB_TRUST_CERT=yes
+```
+
+---
+
+## 📬 Contact
+
+| Channel | Link |
+|---|---|
+| Email | thaiskarolinebentosilva@hotmail.com |
+| LinkedIn | [linkedin.com/in/thaiskaroline](https://linkedin.com/in/thaiskaroline) |
+| GitHub | [github.com/thaiskaroline](https://github.com/thaiskaroline) |
+| Instagram | [@thaiiskaroline_](https://instagram.com/thaiiskaroline_) |
+| Location | Sorocaba, SP · Brazil (Remote · EOR eligible) |
+
+---
+
+## 📄 License
+
+MIT — feel free to use as inspiration. Attribution appreciated.
+
+---
+
+*Built by Thais Karoline Monteiro · Data Engineer · 2026*
