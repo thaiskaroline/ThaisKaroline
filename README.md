@@ -9,9 +9,9 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thaiskaroline-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/thaiskmonteiro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thaiskaroline-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/thaiskaroline)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail)](mailto:thaiskarolinebentosilva@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-thaiskaroline.dev-00d4ff?style=flat-square&logo=vercel)](https://thaiskmonteiro.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thaiskaroline.dev-00d4ff?style=flat-square&logo=vercel)](https://thaiskaroline.dev)
 ![Remote](https://img.shields.io/badge/Remote-Available_globally-00ff9d?style=flat-square)
 ![EOR](https://img.shields.io/badge/EOR-Eligible-7b61ff?style=flat-square)
 
