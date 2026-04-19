@@ -61,15 +61,16 @@ Java desktop app for encrypted data storage. RBAC, CRUD, OOP.
 
 ---
 
-\`\`\`python
-thais = {
-    "role":      "Data Engineer",
-    "location":  "Brazil 🇧🇷 (Remote · EOR)",
-    "stack":     ["Python", "SQL", "Azure Databricks", "PySpark", "Power BI"],
-    "open_to":   ["Full-time Remote", "Contract", "EOR"],
-    "languages": ["Portuguese (native)", "English (fluent)"],
-    "timezone":  "UTC-3 (flexible for overlap)",
-}
-```
+## 📬 Contact
+
+| Channel | Link |
+|---|---|
+| Email | thaiskarolinebentosilva@hotmail.com |
+| LinkedIn | [linkedin.com/in/thaiskaroline](https://linkedin.com/in/thaiskaroline) |
+| GitHub | [github.com/thaiskaroline](https://github.com/thaiskaroline) |
+| Instagram | [@thaiiskaroline_](https://instagram.com/thaiiskaroline_) |
+| Location | Sorocaba, SP · Brazil (Remote · EOR eligible) |
+
+---
 
 📩 **thaiskarolinebentosilva@hotmail.com**
