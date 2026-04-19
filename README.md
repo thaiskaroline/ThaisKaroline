@@ -118,8 +118,8 @@ Responsive institutional website built from scratch: HTML5 semantic markup, CSS3
 | B.Sc. Computer Engineering | UNIVESP | 🔄 In progress (2028) |
 | Postgraduate — Business Intelligence | — | 🔄 In progress |
 | Postgraduate — ML & AI | — | 🔄 In progress |
-| AWS Certified Data Engineer | AWS | 🎯 Target 2025 |
-| dbt Analytics Engineering | dbt Labs | 🎯 Target 2025 |
+| AWS Certified Data Engineer | AWS | 🎯 Target 2026 |
+| dbt Analytics Engineering | dbt Labs | 🎯 Target 2026 |
 
 ---
 
