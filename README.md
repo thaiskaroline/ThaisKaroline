@@ -1,4 +1,4 @@
-# Thais Karoline 👋
+# Hi I'm Thais Karoline 👋
 
 <div align="center">
 
