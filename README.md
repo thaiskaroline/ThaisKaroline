@@ -3,11 +3,7 @@
 <div align="center">
 
 
-
-╔══════════════════════════════════════════════════════════════════════╗
-║   Data Engineer │ Azure · Databricks · Python · SQL · ETL/ELT        ║
-║   Building scalable pipelines that turn raw data into decisions      ║
-╚══════════════════════════════════════════════════════════════════════╝
+# Data Engineer | Azure Databricks · Python · SQL · ETL/ELT | -40% Pipeline Latency @ Toyota | Open to Remote Global (EOR)
 
 
 
