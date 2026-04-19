@@ -1,11 +1,6 @@
-# Hi, I'm Thais Karoline 👋
+# Thais Karoline 👋
 
 <div align="center">
-
-
-# Data Engineer | Azure Databricks · Python · SQL · ETL/ELT | -40% Pipeline Latency @ Toyota | Open to Remote Global (EOR)
-
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thaiskaroline-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/thaiskaroline)
 [![Email](https://img.shields.io/badge/Email-contact-FF2D95?style=flat-square&logo=gmail)](mailto:thaiskarolinebentosilva@hotmail.com)
@@ -16,59 +11,66 @@
 
 ---
 
-## About Me
+## Sobre
 
-Data Engineer with **2+ years** at Toyota do Brasil, building enterprise data pipelines
-for Latin America's largest automotive manufacturing environment.
+Sou **Thais Karoline**, engenheira de dados com mais de **2 anos** de experiência na Toyota do Brasil. Tenho histórico comprovado em projetar e operacionalizar pipelines de dados empresariais, automação em Python e entrega de dashboards analíticos para tomada de decisão executiva.
 
-- 🚀 **-40%** pipeline processing time via Azure Databricks migration
-- ⚙️ **-70%** manual ops through Python automation
-- 📊 SAP → Power BI dashboards used daily by Toyota leadership
-- 🌍 Open to **remote international contracts** (EOR eligible, fluent English)
-
----
-
-## 🛠 Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Impacto:** redução de **40%** no tempo de processamento de pipelines ao migrar para Azure Databricks.
+- **Automação:** redução de **70%** de operações manuais com scripts Python.
+- **Visualização:** integração SAP → Power BI com dashboards usados pela liderança.
+- **Disponibilidade:** aberta a oportunidades remotas internacionais; elegível para EOR; inglês fluente.
 
 ---
 
-## 📌 Featured Projects
+## Stack
 
-### 🔮 [DemandIQ — Holt-Winters Demand Forecast](https://github.com/thaiskaroline/demandiq)
-End-to-end demand forecasting for automotive parts. Holt-Winters + Ridge + GBM ensemble,
-FastAPI backend, SQL Server integration, interactive dashboard.
-`Python` `Holt-Winters` `FastAPI` `SQL Server` `Chart.js`
-
-### 🍕 [Pizza Price Prediction](https://github.com/thaiskaroline/pizza-price-prediction)
-Full ML pipeline: EDA, feature engineering, regression with Scikit-learn.
-`Python` `Scikit-learn` `Pandas` `Matplotlib`
-
-### 🔐 [Vault System](https://github.com/thaiskaroline/vault-system)
-Java desktop app for encrypted data storage. RBAC, CRUD, OOP.
-`Java` `SQL` `OOP` `RBAC`
+**Linguagens e Ferramentas**
+- **Python** · **SQL** · **Spark** · **Azure Databricks**
+- **Airflow** · **FastAPI** · **Docker** · **GitHub Actions**
+- **Power BI** · **Plotly** · **Recharts** · **Chart.js**
+- **Pandas** · **Scikit‑learn** · **statsmodels**
 
 ---
 
-## 📬 Contact
+## Projetos em Destaque
 
-| Channel | Link |
-|---|---|
-| Email | thaiskarolinebentosilva@hotmail.com |
-| LinkedIn | [linkedin.com/in/thaiskaroline](https://linkedin.com/in/thaiskaroline) |
-| GitHub | [github.com/thaiskaroline](https://github.com/thaiskaroline) |
-| Instagram | [@thaiiskaroline_](https://instagram.com/thaiiskaroline_) |
-| Location | Sorocaba, SP · Brazil (Remote · EOR eligible) |
+### 🔮 DemandIQ — Holt‑Winters Demand Forecast
+**Repositório:** https://github.com/thaiskaroline/demandiq  
+Projeto end‑to‑end de previsão de demanda para peças automotivas usando Holt‑Winters com ensemble (Ridge + GBM).  
+**Principais pontos**
+- Pipeline reprodutível em Python com notebook Jupyter.
+- Backend em **FastAPI** para servir previsões.
+- Integração com **SQL Server** e dashboard interativo.
+- **Backtesting** com walk‑forward, métricas MAE / RMSE / MAPE.
+- Artefatos: notebook comentado, script de execução, Dockerfile, sample data.
+
+**Tecnologias:** Python · statsmodels · FastAPI · SQL Server · Chart.js
 
 ---
 
-📩 **thaiskarolinebentosilva@hotmail.com**
+### 🍕 Pizza Price Prediction
+**Repositório:** https://github.com/thaiskaroline/pizza-price-prediction  
+Pipeline completo de ML: EDA, engenharia de features e regressão com Scikit‑learn.  
+**Tecnologias:** Python · Scikit‑learn · Pandas · Matplotlib
+
+---
+
+### 🔐 Vault System
+**Repositório:** https://github.com/thaiskaroline/vault-system  
+Aplicação desktop em Java para armazenamento criptografado de dados com RBAC.  
+**Tecnologias:** Java · SQL · OOP
+
+---
+
+## Como Executar Localmente
+
+**Pré requisitos**
+- Python 3.9+ ou 3.10
+- Docker (opcional)
+- Node.js (para dashboards React)
+
+**Passos gerais**
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/thaiskaroline/<repo>.git
+   cd <repo>
