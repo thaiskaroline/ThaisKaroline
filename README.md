@@ -29,26 +29,6 @@ Cyberpunk-aesthetic portfolio showcasing **Data Engineering** and **Full Stack**
 
 ---
 
-## 📁 Project Structure
-
-```
-thais-portfolio/
-├── index.html                    ← Single-file portfolio (open in browser)
-│
-├── demand-forecast-holt-winters/ ← DemandIQ full project
-│   ├── index.html                ← Standalone forecast dashboard
-│   ├── demand_forecast.py        ← Python engine (Holt-Winters + ML)
-│   └── api/
-│       ├── main.py               ← FastAPI backend (SQL Server)
-│       ├── schema.sql            ← DB schema + seed data
-│       ├── test_connection.py    ← Connection validator
-│       ├── requirements.txt
-│       ├── start.bat
-│       └── .env.example
-│
-└── README.md
-```
-
 ## 🛠 Tech Stack
 
 ### Data Engineering (Primary)
