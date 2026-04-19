@@ -4,7 +4,7 @@
 
 \`\`\`
 ╔══════════════════════════════════════════════════════════════════════╗
-║   Data Engineer │ Azure · Databricks · Python · SQL · ETL/ELT       ║
+║   Data Engineer │ Azure · Databricks · Python · SQL · ETL/ELT        ║
 ║   Building scalable pipelines that turn raw data into decisions      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 \`\`\`
