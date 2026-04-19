@@ -2,12 +2,14 @@
 
 <div align="center">
 
-\`\`\`
+
+
 ╔══════════════════════════════════════════════════════════════════════╗
 ║   Data Engineer │ Azure · Databricks · Python · SQL · ETL/ELT        ║
 ║   Building scalable pipelines that turn raw data into decisions      ║
 ╚══════════════════════════════════════════════════════════════════════╝
-\`\`\`
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thaiskaroline-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/thaiskaroline)
 [![Email](https://img.shields.io/badge/Email-contact-FF2D95?style=flat-square&logo=gmail)](mailto:thaiskarolinebentosilva@hotmail.com)
