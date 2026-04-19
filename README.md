@@ -33,68 +33,36 @@ I'm actively seeking **remote international Data Engineer roles** (contractor or
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Stack
 
-### Core — Data Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-
-### Cloud & Infra
-![Azure Data Lake](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/ADF-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### BI & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-
-### Languages
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square)
-![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=flat-square&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔄 [ETL Pipeline — Toyota Logistics Analytics](#)
-> *Private — available for discussion in interviews*
+### 🔮 [DemandIQ — Holt-Winters Demand Forecast](https://github.com/thaiskaroline/demandiq)
+End-to-end demand forecasting for automotive parts. Holt-Winters + Ridge + GBM ensemble,
+FastAPI backend, SQL Server integration, interactive dashboard.
+`Python` `Holt-Winters` `FastAPI` `SQL Server` `Chart.js`
 
-Enterprise-grade data pipeline migrating legacy SAP data to Azure Databricks. Includes incremental ingestion, PySpark transformations, and Power BI output for 8+ KPI dashboards used by Toyota leadership.
+### 🍕 [Pizza Price Prediction](https://github.com/thaiskaroline/pizza-price-prediction)
+Full ML pipeline: EDA, feature engineering, regression with Scikit-learn.
+`Python` `Scikit-learn` `Pandas` `Matplotlib`
 
-`Azure Databricks` `PySpark` `SAP` `Power BI` `ETL` `Azure ADLS`
+### 🔐 [Vault System](https://github.com/thaiskaroline/vault-system)
+Java desktop app for encrypted data storage. RBAC, CRUD, OOP.
+`Java` `SQL` `OOP` `RBAC`
 
----
 
-### 🍕 [Pizza Price Prediction — ML Pipeline](https://github.com/thaiskmonteiro/pizza-price-prediction)
-
-End-to-end machine learning pipeline: data ingestion, EDA, feature engineering, and regression model training to predict product prices. Demonstrates full data science workflow from raw CSV to deployed model.
-
-`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Regression`
-
----
-
-### 🔐 [Vault System — Secure Data Management](https://github.com/thaiskmonteiro/vault-system)
-
-Java desktop application for encrypted storage of sensitive records. Features SQL persistence, full CRUD, role-based access control (RBAC), and clean OOP architecture.
-
-`Java` `SQL` `OOP` `CRUD` `Encryption` `RBAC`
-
----
-
-### 🌐 [Coffee Shop — Responsive Web Interface](https://github.com/thaiskmonteiro/coffee-shop-website)
-
-Responsive institutional website built from scratch: HTML5 semantic markup, CSS3 with Flexbox/Grid, vanilla JavaScript. Optimized for accessibility and performance across all screen sizes.
-
-`HTML5` `CSS3` `JavaScript` `Responsive Design` `Web Accessibility`
 
 ---
 
