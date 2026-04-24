@@ -1,114 +1,78 @@
-# Hi, I'm Thais Monteiro 👋
+# Hi, I'm Thais Karoline 👋
 
-<div align="center">
+### Data Engineer | Azure (Databricks) · GCP · AWS · SAP | IA/ML | Full Stack (FastAPI + React)
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║   Data Engineer │ Azure · Databricks · Python · SQL · ETL/ELT       ║
-║   Building scalable pipelines that turn raw data into decisions      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thaiskaroline-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/thaiskaroline)
-[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail)](mailto:thaiskarolinebentosilva@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-thaiskaroline.dev-00d4ff?style=flat-square&logo=vercel)](https://thaiskaroline.dev)
-![Remote](https://img.shields.io/badge/Remote-Available_globally-00ff9d?style=flat-square)
-![EOR](https://img.shields.io/badge/EOR-Eligible-7b61ff?style=flat-square)
-
-</div>
+📍 Brazil — available for remote contracts globally  
+📧 thaiskarolinebentosilva@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/thaiskaroline/)  
 
 ---
 
-## About Me
+## 🧠 About Me
 
-Data Engineer with **2+ years of experience** at Toyota do Brasil, one of the most data-intensive manufacturing environments in Latin America.
+Data Engineer with 2+ years at Toyota do Brasil, building scalable ETL pipelines on Azure Databricks and integrating SAP data into Power BI dashboards used by C-level leadership. Expanding cloud expertise to GCP and AWS. I also deliver full‑stack data products with FastAPI + React and apply machine learning (Scikit‑learn, Prophet) to solve real logistics problems.
 
-I specialize in **Azure-native data architectures** — from raw SAP ingestion to executive Power BI dashboards — with a track record of measurable impact:
-
-- 🚀 **40% reduction** in pipeline processing time via Azure Databricks migration
-- ⚙️ **70% reduction** in operational overhead through Python automation
-- 📊 Built real-time **Power BI + SAP dashboards** used daily by Toyota leadership
-
-I'm actively seeking **remote international Data Engineer roles** (contractor or EOR). I'm fluent in English and work effectively with distributed teams across time zones.
+- 🔹 Reduced processing time by **40%** and manual effort by **70%** at Toyota  
+- 🔹 Multi‑cloud: **Azure (Databricks, Delta Lake) · GCP (BigQuery, Dataflow) · AWS**  
+- 🔹 Rare mix: **SAP integration + predictive analytics + full‑stack development**  
 
 ---
 
-## 🛠 Stack
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Cloud & Data Platforms
+![Azure](https://img.shields.io/badge/Azure-Databricks-blue?logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003545?logo=delta&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-BigQuery%20%7C%20Dataflow-4285F4?logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Foundational-232F3E?logo=amazonaws&logoColor=white)
+
+### Data Engineering & ML
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-66B2FF?logo=facebook&logoColor=white)
+
+### Full Stack & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
-### 🔮 [DemandIQ — Holt-Winters Demand Forecast](https://github.com/thaiskaroline/demandiq)
-End-to-end demand forecasting for automotive parts. Holt-Winters + Ridge + GBM ensemble,
-FastAPI backend, SQL Server integration, interactive dashboard.
-`Python` `Holt-Winters` `FastAPI` `SQL Server` `Chart.js`
+### 🔹 [EnergyWatch – Smart Grid Analytics](https://github.com/thaiskaroline/EnergyWatch)
+**Azure · Databricks · PySpark · Delta Lake · Prophet · FastAPI · React · Docker**  
+Pipeline que processa dados horários de consumo de energia, gera previsões de demanda e exibe dashboard interativo. Arquitetura cloud‑native com Delta Lake, API preditiva em FastAPI e front‑end React — produto de dados ponta a ponta.
 
-### 🍕 [Pizza Price Prediction](https://github.com/thaiskaroline/pizza-price-prediction)
-Full ML pipeline: EDA, feature engineering, regression with Scikit-learn.
-`Python` `Scikit-learn` `Pandas` `Matplotlib`
+### 🔹 [DemandIQ – Automotive Parts Demand Forecasting](https://github.com/thaiskaroline/DemandIQ)
+**Python · Scikit‑learn · Holt‑Winters · Gradient Boosting · Flask · CLI**  
+Ensemble de modelos para previsão de demanda de peças automotivas, com grid search e engenharia de features para séries temporais irregulares. Entregue como biblioteca Python, CLI e API web.
 
-### 🔐 [Vault System](https://github.com/thaiskaroline/vault-system)
-Java desktop app for encrypted data storage. RBAC, CRUD, OOP.
-`Java` `SQL` `OOP` `RBAC`
-
-
+### 🔹 [SupplyIQ – Supply Chain Dashboard](https://github.com/thaiskaroline/SupplyIQ)
+**Python · Streamlit · Pandas · Plotly · SQL**  
+Dashboard interativo de KPIs de supply chain (nível de serviço, giro de estoque, rupturas) com integração a dados de ERP e ETL documentado.
 
 ---
 
 ## 📊 GitHub Stats
 
-<div display: flex; justify-content: center;">
-
-![Thais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaiskaroline&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=06070d&title_color=00d4ff&icon_color=7b61ff&text_color=e8eaf0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiskaroline&layout=compact&theme=midnight-purple&hide_border=true&bg_color=06070d&title_color=00d4ff&text_color=e8eaf0)
-
-</div>
+![Thais's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiskaroline&show_icons=true&theme=github_dark&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaiskaroline&layout=compact&theme=github_dark)
 
 ---
 
-## 🎓 Education & Certifications
+## 🌐 Languages & Contact
 
-| Credential | Institution | Status |
-|---|---|---|
-| B.Sc. Systems Analysis & Development | Uninter | ✅ Completed 2024 |
-| B.Sc. Computer Engineering | UNIVESP | 🔄 In progress (2028) |
-| Postgraduate — Business Intelligence | — | 🔄 In progress |
-| Postgraduate — ML & AI | — | 🔄 In progress |
-| AWS Certified Data Engineer | AWS | 🎯 Target 2026 |
-| dbt Analytics Engineering | dbt Labs | 🎯 Target 2026 |
+- 🇧🇷 Portuguese (Native)  
+- 🇺🇸 English (C1 – Fluent)  
+- 📫 [LinkedIn](https://www.linkedin.com/in/thaiskaroline/) | [Email](mailto:thaiskarolinebentosilva@hotmail.com)
 
 ---
 
-## 🌍 Open to Work
-
-```python
-thais = {
-    "role":        "Data Engineer",
-    "location":    "Brazil 🇧🇷 (Remote — global)",
-    "available":   True,
-    "contract":    ["Full-time", "Contract", "EOR"],
-    "languages":   ["Portuguese (native)", "English (fluent)"],
-    "timezone":    "UTC-3 (flexible for overlap)",
-    "notice":      "2 weeks"
-}
-```
-
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/thaiskaroline) or [email](mailto:thaiskarolinebentosilva@hotmail.com).
-
----
-
-<div align="center">
-<sub>Building data infrastructure that scales · Available globally · Let's talk.</sub>
-</div>
+*“Building data products that go from ingestion to business decision — with cloud, ML and full‑stack delivery.”*
